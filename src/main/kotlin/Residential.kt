@@ -1,6 +1,8 @@
 /**
  * Residential class
  * Will take all the residential input from Main and manipulate it
+ *
+ * KMC 10\5\23
  */
 import java.text.DecimalFormat
 

@@ -2,7 +2,7 @@
  * Commercial class
  * Will take all the commercial input from Main and manipulate it
  *
- * KMC 9/28/23
+ * KMC 10/5/23
  */
 import java.text.DecimalFormat
 
